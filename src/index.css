@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web&display=swap');
+body {
+  margin: 0;
+  font-family: 'Istok';
+  font-size: 1.5em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Istok',
+    monospace;
+}
+
+html {
+  height: 100%;
+}
